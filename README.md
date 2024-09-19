@@ -1,3 +1,4 @@
-# Readme
+# Memory Game 
 
-This is a clone of the classic arcade game, space invaders.
+Project developed in vanilla javascript. 
+
