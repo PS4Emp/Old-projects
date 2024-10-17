@@ -1,7 +1,4 @@
-/*
- * Copyright (c) 2016 Satya Mallick <spmallick@learnopencv.com>
- * All rights reserved. No warranty, explicit or implicit, provided.
- */
+
 
 #include <opencv2/opencv.hpp>
 #include <iostream>
